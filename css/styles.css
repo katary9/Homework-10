@@ -1,0 +1,104 @@
+body {
+}
+.badge {
+    border-radius: 50%;
+   position: absolute;
+   right: 130px;
+}
+.img_ava{
+    width: 154px;
+height: 153px;
+    border-radius: 50%;
+}
+.collumn_card h1 {
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 32px;
+display: flex;
+align-items:center;
+
+}
+button {
+    
+    
+}
+.avatar {
+    padding-top: 29px;
+}
+.form-inline {
+    padding-top: 35px;
+}
+.name {
+    align-self: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    text-align: center;
+    color: #262626;
+    margin: 0;
+}
+.collumn_card {
+    max-height: 33px;
+}
+.one {
+    width: 97px;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+}
+button span {
+    display: inline-block;
+    width: 4px;
+    height: 4px;
+    background-color: #262626;
+    border-radius: 50%;
+}
+.point {
+        background: none;
+    border: none;
+}
+.info {
+    
+  
+}
+.info_item {
+width: 105px;
+height: 21px;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+}
+.about_column h2{
+    margin-top: 21px;
+    font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+}
+.about_column a {
+    font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+
+color: #133768;
+margin-top: -10px;
+}
+.subtitle h3 {
+    font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+padding-bottom: 55px;
+}
+menu {
+   
+    color: #8F8F8F;
+}
+.foto_content {
+    padding-top: 23px;
+}
